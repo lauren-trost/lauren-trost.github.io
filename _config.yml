@@ -2,7 +2,8 @@ title: Lauren Trost
 logo: assets/logo.png
 # description: text below image
 theme: jekyll-theme-minimal
-nav: 
+nav:
   - title: "Portfolio"
     url: /portfolio
+
 
