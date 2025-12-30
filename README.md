@@ -16,11 +16,11 @@ Python | SQL | R | PowerBI & DAX | Tableau | VBA | Power Query
 
 University of Toledo | Economics M.A. | GPA: 4.0
 
-*Certificate in Data Analysis*
+> *Certificate in Data Analysis*
 
 University of Toledo | Economics B.A. | GPA: 4.0
 
-*Minor in Data Analytics*
+> *Minor in Data Analytics*
 
 ## Work Experience
 
