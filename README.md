@@ -6,11 +6,11 @@ My background is in Economics, bringing a strong statistical foundation with exp
 
 ## Skills
 <pre>
-Python | SQL | R | PowerBI & DAX | Tableau | VBA | Power Query
+Python | SQL | R | PowerBI & DAX | VBA | Power Query
 </pre>
 - Packages: Pandas, Numpy, Matplotlib, Requests, Jupyter Notebook, Tidyverse, Ggplot2, Dplyr, Markdown
 
-- Additional Software: SQL Server Management Studio, ESRI ArcPro, Microsoft Office Suite, STATA, SAP Crystal Reports, Visual Studio Code, Git
+- Additional Software: SQL Server Management Studio, Tableau, ESRI ArcPro, Microsoft Office Suite, STATA, SAP Crystal Reports, Visual Studio Code, Git
 
 ## Education
 
