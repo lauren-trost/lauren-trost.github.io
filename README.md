@@ -1,9 +1,11 @@
 # Lauren Trost
 
-Hello 👋 I am a data anaylst based in Toledo, Ohio currently working for the City of Toledo to observe current and predict future crime trends across the city. 
+Hello 👋 I am a data analyst based in Toledo, Ohio currently working for the City of Toledo to observe current and predict future crime trends across the city. 
 
 My background is in Economics, bringing a strong statistical foundation with experience in regression techniques, data modeling, ARIMA forecasing, hypothesis testing, Bayesian techniques, and data simulation. 
-
+<pre>
+Guitarist 🎸, Weight Lifter 🏋️‍♀️, Photographer 📸
+</pre>
 ## Skills
 <pre>
 Python | SQL | R | PowerBI & DAX | VBA | Power Query
