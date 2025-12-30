@@ -6,7 +6,7 @@ My background is in Economics, bringing a strong statistical foundation with exp
 
 ## Skills
 
-Python | SQL | R | PowerBI & DAX | Tableau | VBA | Power Query
+Python|SQL|R|PowerBI & DAX|Tableau|VBA|Power Query
 
 - Packages: Pandas, Numpy, Matplotlib, Requests, Jupyter Notebook, Tidyverse, Ggplot2, Dplyr, Markdown
 
